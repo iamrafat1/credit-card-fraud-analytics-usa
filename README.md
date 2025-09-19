@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="cover.png" alt="credit card fraud analytics usa" width="600">
+</p>
 
 # credit-card-fraud-analytics-usa
 
